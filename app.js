@@ -40,7 +40,7 @@ function gerarNumeroAleatorio() {
     } else{
         numerosSorteados.push(numeroEscolhido);
         console.log(numerosSorteados)
-        return numeroEscolhido();
+        return numeroEscolhido;
     }
 }
 
